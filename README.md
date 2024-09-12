@@ -1,12 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Olivia Choi</h1>
-<h3 align="center">A passionate data engineer intern @Nokia</h3>
+<h3 align="center">Recent Data Science graduate from the University of Western Ontario, former Data Engineer Intern @Nokia</h3>
 
-- 🔭 I’m currently working on **building up my GitHub profile with projects related to data analysis, data science, machine learning, and computer science**
-
-- 🌱 I’m currently learning **Power BI, Machine Learning, and Data Science**
-
-- 👯 I’m looking to collaborate on **any of the presented data science/machine learning/PBI reports or open to other projects**
+- 👯 I’m looking to collaborate on **any of the presented data science/machine learning/PBI reports/web development or open to other projects**
 
 - 📫 How to reach me **Email me or connect on LinkedIn**
 
